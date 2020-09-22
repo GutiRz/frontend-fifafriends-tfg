@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontend-fifafriends-tfg/static/css/main.a889d10a.chunk.css",
+    "main.js": "/frontend-fifafriends-tfg/static/js/main.d50c4f14.chunk.js",
+    "main.js.map": "/frontend-fifafriends-tfg/static/js/main.d50c4f14.chunk.js.map",
+    "runtime-main.js": "/frontend-fifafriends-tfg/static/js/runtime-main.137d9a5b.js",
+    "runtime-main.js.map": "/frontend-fifafriends-tfg/static/js/runtime-main.137d9a5b.js.map",
+    "static/js/2.c3ef977d.chunk.js": "/frontend-fifafriends-tfg/static/js/2.c3ef977d.chunk.js",
+    "static/js/2.c3ef977d.chunk.js.map": "/frontend-fifafriends-tfg/static/js/2.c3ef977d.chunk.js.map",
+    "index.html": "/frontend-fifafriends-tfg/index.html",
+    "precache-manifest.1039fd711e8d1ea9ef0288ba1d33a954.js": "/frontend-fifafriends-tfg/precache-manifest.1039fd711e8d1ea9ef0288ba1d33a954.js",
+    "service-worker.js": "/frontend-fifafriends-tfg/service-worker.js",
+    "static/css/main.a889d10a.chunk.css.map": "/frontend-fifafriends-tfg/static/css/main.a889d10a.chunk.css.map",
+    "static/js/2.c3ef977d.chunk.js.LICENSE.txt": "/frontend-fifafriends-tfg/static/js/2.c3ef977d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.137d9a5b.js",
+    "static/js/2.c3ef977d.chunk.js",
+    "static/css/main.a889d10a.chunk.css",
+    "static/js/main.d50c4f14.chunk.js"
+  ]
+}
